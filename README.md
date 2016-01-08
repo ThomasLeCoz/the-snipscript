@@ -3,7 +3,7 @@
 This PHP script will allow you to automate your content curation and generate leads from your curation. It sends articles you tag to your Buffer, passing the link through Snip.ly to add a lead generating CTA in the same movement.
 
 I wrote a detailed article about it here: 
-[TLCZ Articles](http://thomaslecoz.com)
+[Get Leads By Reading](http://thomaslecoz.com/get-leads-reading)
 
 # Requirements
 

@@ -5,7 +5,7 @@
 *		http://thomaslecoz.com 						*
 *													*
 *	Article with full explanations below 			*
-*	http://thomaslecoz.com/clients-by-reading		*
+*	http://thomaslecoz.com/get-leads-reading		*
 *													*
 *****************************************************/
 
